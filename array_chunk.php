@@ -1,5 +1,5 @@
 <?php
-
+//The array_chunk() function splits an array into chunks of new arrays.
 ##########################################################
 
 $cars=array("Volvo","BMW","Toyota","Honda","Mercedes","Opel");
