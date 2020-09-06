@@ -1,4 +1,11 @@
 <?php
+
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //Create an indexed array named $cars, assign three elements to it, and then print a text containing the array values:
 ############################################################################################
 

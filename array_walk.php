@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_walk() function runs each array element in a user-defined function. The array's keys and values are parameters in the function.
 
 //Note: You can change an array element's value in the user-defined function by specifying the first parameter as a reference: &$value (See Example 2).

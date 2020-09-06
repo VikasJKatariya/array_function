@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_combine() function creates an array by using the elements from one "keys" array and one "values" array.
 
 ##########################################################

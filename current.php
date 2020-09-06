@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The current() function returns the value of the current element in an array.
 
 //Every array has an internal pointer to its "current" element, which is initialized to the first element inserted into the array.

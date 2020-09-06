@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_intersect_assoc() function compares the keys and values of two (or more) arrays, and returns the matches.
 
 //This function compares the keys and values of two or more arrays, and return an array that contains the entries from array1 that are present in array2, array3, etc.

@@ -1,4 +1,11 @@
 <?php
+
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_change_key_case() function changes all keys in an array to lowercase or uppercase.
 ##########################################################
 

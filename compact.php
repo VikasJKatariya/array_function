@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The compact() function creates an array from variables and their values.
 
 //Note: Any strings that does not match variable names will be skipped.

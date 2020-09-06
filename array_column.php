@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 // An array that represents a possible record set returned from a database
 //The array_column() function returns the values from a single column in the input array.
 
