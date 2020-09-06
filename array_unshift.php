@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_unshift() function inserts new elements to an array. The new array values will be inserted in the beginning of the array.
 
 //Tip: You can add one value, or as many as you like.

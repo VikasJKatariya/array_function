@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_reduce() function sends the values in an array to a user-defined function, and returns a string.
 
 //Note: If the array is empty and initial is not passed, this function returns NULL.

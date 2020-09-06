@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The arsort() function sorts an associative array in descending order, according to the value.
  
 //Tip: Use the   asort() function to sort an associative array in ascending order, according to the value.

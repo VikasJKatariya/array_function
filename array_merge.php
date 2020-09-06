@@ -1,4 +1,11 @@
 <?php
+
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_merge() function merges one or more arrays into one array.
 
 //Tip: You can assign one array to the function, or as many as you like.

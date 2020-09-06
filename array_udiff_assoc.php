@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_udiff_assoc() function compares the keys and values of two or more arrays, and returns the differences.
 
 //Note: This function uses a built-in function to compare the keys, and a user-defined function to compare the values!

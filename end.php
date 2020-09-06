@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The end() function moves the internal pointer to, and outputs, the last element in the array.
 
 //Related methods:

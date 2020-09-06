@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_uintersect() function compares the values of two or more arrays, and returns the matches.
 
 //Note: This function uses a user-defined function to compare the values!

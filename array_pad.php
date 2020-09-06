@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_pad() function inserts a specified number of elements, with a specified value, to an array.
 
 //Tip: If you assign a negative size parameter, the function will insert new elements BEFORE the original elements (See example below).
