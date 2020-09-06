@@ -1,5 +1,10 @@
-
 <?php
+
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
 
 //The array_multisort() function returns a sorted array. You can assign one or more arrays. The function sorts the first array, and the other arrays follow, then, if two or more values are the same, it sorts the next array, and so on.
 

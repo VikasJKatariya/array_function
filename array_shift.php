@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_shift() function removes the first element from an array, and returns the value of the removed element.
 
 //Note: If the keys are numeric, all elements will get new keys, starting from 0 and increases by 1 (See example below).

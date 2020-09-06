@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_replace() function replaces the values of the first array with the values from following arrays.
 
 //Tip: You can assign one array to the function, or as many as you like.

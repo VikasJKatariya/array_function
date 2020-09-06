@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 ############################################################################################
 //The array_map() function sends each value of an array to a user-made function, and returns an array with new values, given by the user-made function.
 

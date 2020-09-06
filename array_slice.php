@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_slice() function returns selected parts of an array.
 
 //Note: If the array have string keys, the returned array will always preserve the keys 

@@ -1,5 +1,11 @@
 <?php
 
+//*******************************************************
+
+//Author : Vikas Katariya
+
+//*******************************************************
+
 //The array_push() function inserts one or more elements to the end of an array.
 
 //Tip: You can add one value, or as many as you like.
